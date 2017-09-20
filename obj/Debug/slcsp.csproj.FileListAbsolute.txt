@@ -1,0 +1,7 @@
+E:\users\alectra\My Projects\slcsp\slcsp\bin\Debug\slcsp.exe.config
+E:\users\alectra\My Projects\slcsp\bin\Debug\slcsp.exe.config
+E:\users\alectra\My Projects\slcsp\bin\Debug\slcsp.exe
+E:\users\alectra\My Projects\slcsp\bin\Debug\slcsp.pdb
+E:\users\alectra\My Projects\slcsp\obj\Debug\slcsp.csprojResolveAssemblyReference.cache
+E:\users\alectra\My Projects\slcsp\obj\Debug\slcsp.exe
+E:\users\alectra\My Projects\slcsp\obj\Debug\slcsp.pdb
